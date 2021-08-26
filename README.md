@@ -1,4 +1,4 @@
-## Olá! Eu sou o Alex Juneo!
+## HI there! I'm Alex Juneo!!
 
  <div>
   <a href="https://github.com/alexojuneo">
